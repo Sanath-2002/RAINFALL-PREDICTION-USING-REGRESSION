@@ -1,0 +1,22 @@
+TY  - JOUR
+AU  - Bhatele, Kirti Raj
+AU  - Jha, Anand
+AU  - Tiwari, Devanshu
+AU  - Bhatele, Mukta
+AU  - Sharma, Sneha
+AU  - Mithora, Muktasha R.
+AU  - Singhal, Stuti
+PY  - 2024
+DA  - 2024/07/01
+TI  - COVID-19 Detection: A Systematic Review of Machine and Deep Learning-Based Approaches Utilizing Chest X-Rays and CT Scans
+JO  - Cognitive Computation
+SP  - 1889
+EP  - 1926
+VL  - 16
+IS  - 4
+AB  - This review study presents the state-of-the-art machine and deep learning-based COVID-19 detection approaches utilizing the chest X-rays or computed tomography (CT) scans. This study aims to systematically scrutinize as well as to discourse challenges and limitations of the existing state-of-the-art research published in this domain from March 2020 to August 2021. This study also presents a comparative analysis of the performance of four majorly used deep transfer learning (DTL) models like VGG16, VGG19, ResNet50, and DenseNet over the COVID-19 local CT scans dataset and global chest X-ray dataset. A brief illustration of the majorly used chest X-ray and CT scan datasets of COVID-19 patients utilized in state-of-the-art COVID-19 detection approaches are also presented for future research. The research databases like IEEE Xplore, PubMed, and Web of Science are searched exhaustively for carrying out this survey. For the comparison analysis, four deep transfer learning models like VGG16, VGG19, ResNet50, and DenseNet are initially fine-tuned and trained using the augmented local CT scans and global chest X-ray dataset in order to observe their performance. This review study summarizes major findings like AI technique employed, type of classification performed, used datasets, results in terms of accuracy, specificity, sensitivity, F1 score, etc., along with the limitations, and future work for COVID-19 detection in tabular manner for conciseness. The performance analysis of the four majorly used deep transfer learning models affirms that Visual Geometry Group 19 (VGG19) model delivered the best performance over both COVID-19 local CT scans dataset and global chest X-ray dataset.
+SN  - 1866-9964
+UR  - https://doi.org/10.1007/s12559-022-10076-6
+DO  - 10.1007/s12559-022-10076-6
+ID  - Bhatele2024
+ER  - 
